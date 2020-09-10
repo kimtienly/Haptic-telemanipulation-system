@@ -1,0 +1,6 @@
+model_checkpoint_path: "decision.ckpt"
+all_model_checkpoint_paths: "../ep80000/decision.ckpt"
+all_model_checkpoint_paths: "../ep85000/decision.ckpt"
+all_model_checkpoint_paths: "../ep90000/decision.ckpt"
+all_model_checkpoint_paths: "../ep95000/decision.ckpt"
+all_model_checkpoint_paths: "decision.ckpt"
